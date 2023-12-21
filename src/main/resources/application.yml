@@ -1,0 +1,8 @@
+spring:
+  kafka:
+    bootstrap-servers:
+    producer:
+      bootstrap-servers:
+    consumer:
+      bootstrap-servers:
+      group-id:
